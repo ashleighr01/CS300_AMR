@@ -1,2 +1,0 @@
-# CS300_AMR
-#MLA_AMR
